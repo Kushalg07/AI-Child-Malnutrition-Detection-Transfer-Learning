@@ -82,15 +82,11 @@ This improves:
 - Image size: 224 × 224
 - Normalization: ImageNet mean and standard deviation
 
-⚠️ **Important:**  
-The dataset used in this project was synthetically generated using Stable Diffusion.  
-Future work includes validation using real-world pediatric datasets.
-
 ---
 
 ## ⚙️ Training Configuration
 
-- Loss Function: Binary Cross Entropy
+- Loss Function: Binary Cross-Entropy
 - Optimizers: Adam, SGD
 - Learning Rate: 0.0001
 - Batch Sizes: 24, 32, 40
