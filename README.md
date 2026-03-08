@@ -1,4 +1,4 @@
-# 🧠 AI-Based Child Malnutrition Detection using Lightweight CNNs
+# 🧠 AI Model-Based Prediction of Malnutrition among Children Using Deep Learning Models with Transfer Learning
 
 Deep Learning framework for automated child nutritional status classification using **MobileNetV2** and **ShuffleNetV2** with transfer learning and Grad-CAM interpretability.
 
